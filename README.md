@@ -8,9 +8,9 @@
 
 ## About the project
 
-See my [thesis](https://www.math.elte.hu/thesisupload/thesisfiles/2024msc_alkmat2y-kzje3n.pdf) for detailed information about the project and the algorithms used (in Hungarian)
+See my [thesis](https://www.math.elte.hu/thesisupload/thesisfiles/2024msc_alkmat2y-kzje3n.pdf) for detailed information about the project and the algorithms used (in Hungarian).
 
-Keywords: Dynamic Vehicle Routing Problem (DVRP), Dynamic Pickup and Delivery Problem (DPDP), Variable Neighborhood Search (VNS)
+Keywords: Dynamic Vehicle Routing Problem (DVRP), Dynamic Pickup and Delivery Problem (DPDP), Variable Neighborhood Search (VNS).
 
 ## How to use
 
